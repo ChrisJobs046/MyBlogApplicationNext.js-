@@ -1,3 +1,12 @@
+
+/* const basePath = "http://localhost:3000"; */
+
+
 module.exports = {
-  reactStrictMode: true,
+
+  /* images: {
+    loader: 'imgix',
+    path: `${basePath}/_next/image`,
+  }, */
+  reactStrictMode: true
 }
